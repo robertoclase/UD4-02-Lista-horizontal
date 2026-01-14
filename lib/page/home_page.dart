@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
       firstName: 'Taraneh',
       lastName: 'Alidoosti',
       imageUrl:
-          'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=850&q=80',
+          'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=850&q=80',
     ),
     Actor(
       firstName: 'Shahab',
